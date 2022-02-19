@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drzulus
 - 👀 I’m interested in System Administratrating, scripting, networks, hardware, OS.
-- 📫 How to reach me: Telegram @drzulus
+- 📫 How to reach me: https://t.me/drzulus
 
 <!---
 drzulus/drzulus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
