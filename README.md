@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drzulus
-- 👀 I’m interested in System Administratrating, scripting, networks, hardware, OS.
+- 👀 I’m interested in System Administrating, scripting, networks, hardware, OS.
 - 📫 How to reach me: Telegram https://t.me/drzulus or email drzulus@drzulus.ru
 
 <!---
